@@ -16,7 +16,7 @@ export const Bio = {
   github: "https://github.com/Dinesh1134",
   email: "dineshkumar040311@gmail.com",
   resume:
-    "https://drive.google.com/file/d/1qSpgyZsTaNXil5UOjUCx6_XfhlWCCuIZ/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1qVVMdKoVp4HU0QFsq7Zy-K7yvePB-Qy1/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/dinesh-kumar11/",
   leetcode: "https://leetcode.com/u/Dinesh1134/",
   hackerRank: "https://www.hackerrank.com/profile/dineshkumar90928",
