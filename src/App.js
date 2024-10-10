@@ -9,12 +9,14 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 
 const Body = styled.div`
-  background-color: ${({ theme }) => theme.bg};
+  background-color: ${({ theme }) => theme.bg}; /* Optional if you want some color overlay */
   width: 100%;
+  min-height: 100vh;
+  height: auto;
   overflow-x: hidden;
   position: relative;
+  z-index: 1; /* Places the content above the background */
   padding-bottom: 50px;
-
   
   @media (max-width: 1340px) {
     padding-left: 90px;
