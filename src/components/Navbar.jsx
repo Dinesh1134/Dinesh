@@ -254,7 +254,7 @@ const Navbar = () => {
     const shareData = {
       title: "My Portfolio",
       text: "Check out my portfolio!",
-      url: "http://yourportfolio.com",
+      url: "http://dinesh-portfolio.com",
     };
     if (navigator.share) {
       navigator.share(shareData).catch((err) => console.error("Error sharing", err));
